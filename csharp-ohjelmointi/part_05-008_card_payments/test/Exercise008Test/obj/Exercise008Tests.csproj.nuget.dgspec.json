@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-008_card_payments/test/Exercise008Test/Exercise008Tests.csproj": {}
+    "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-008_card_payments/test/Exercise008Test/Exercise008Tests.csproj": {}
   },
   "projects": {
-    "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-008_card_payments/src/Exercise008/Exercise.csproj": {
+    "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-008_card_payments/src/Exercise008/Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-008_card_payments/src/Exercise008/Exercise.csproj",
+        "projectUniqueName": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-008_card_payments/src/Exercise008/Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-008_card_payments/src/Exercise008/Exercise.csproj",
+        "projectPath": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-008_card_payments/src/Exercise008/Exercise.csproj",
         "packagesPath": "/Users/s2200682/.nuget/packages/",
-        "outputPath": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-008_card_payments/src/Exercise008/obj/",
+        "outputPath": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-008_card_payments/src/Exercise008/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/s2200682/.nuget/NuGet/NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-008_card_payments/test/Exercise008Test/Exercise008Tests.csproj": {
+    "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-008_card_payments/test/Exercise008Test/Exercise008Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-008_card_payments/test/Exercise008Test/Exercise008Tests.csproj",
+        "projectUniqueName": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-008_card_payments/test/Exercise008Test/Exercise008Tests.csproj",
         "projectName": "Exercise008Tests",
-        "projectPath": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-008_card_payments/test/Exercise008Test/Exercise008Tests.csproj",
+        "projectPath": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-008_card_payments/test/Exercise008Test/Exercise008Tests.csproj",
         "packagesPath": "/Users/s2200682/.nuget/packages/",
-        "outputPath": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-008_card_payments/test/Exercise008Test/obj/",
+        "outputPath": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-008_card_payments/test/Exercise008Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/s2200682/.nuget/NuGet/NuGet.Config"
@@ -79,8 +79,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-008_card_payments/src/Exercise008/Exercise.csproj": {
-                "projectPath": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-008_card_payments/src/Exercise008/Exercise.csproj"
+              "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-008_card_payments/src/Exercise008/Exercise.csproj": {
+                "projectPath": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-008_card_payments/src/Exercise008/Exercise.csproj"
               }
             }
           }

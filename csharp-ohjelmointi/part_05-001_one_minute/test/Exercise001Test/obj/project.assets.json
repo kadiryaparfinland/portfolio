@@ -6115,11 +6115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-001_one_minute/test/Exercise001Test/Exercise001Tests.csproj",
+      "projectUniqueName": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-001_one_minute/test/Exercise001Test/Exercise001Tests.csproj",
       "projectName": "Exercise001Tests",
-      "projectPath": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-001_one_minute/test/Exercise001Test/Exercise001Tests.csproj",
+      "projectPath": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-001_one_minute/test/Exercise001Test/Exercise001Tests.csproj",
       "packagesPath": "/Users/s2200682/.nuget/packages/",
-      "outputPath": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-001_one_minute/test/Exercise001Test/obj/",
+      "outputPath": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-001_one_minute/test/Exercise001Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/s2200682/.nuget/NuGet/NuGet.Config"
@@ -6134,8 +6134,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-001_one_minute/src/Exercise001/Exercise.csproj": {
-              "projectPath": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-001_one_minute/src/Exercise001/Exercise.csproj"
+            "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-001_one_minute/src/Exercise001/Exercise.csproj": {
+              "projectPath": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-001_one_minute/src/Exercise001/Exercise.csproj"
             }
           }
         }

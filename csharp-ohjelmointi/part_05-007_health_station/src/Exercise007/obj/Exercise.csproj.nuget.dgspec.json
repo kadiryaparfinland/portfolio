@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-007_health_station/src/Exercise007/Exercise.csproj": {}
+    "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-007_health_station/src/Exercise007/Exercise.csproj": {}
   },
   "projects": {
-    "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-007_health_station/src/Exercise007/Exercise.csproj": {
+    "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-007_health_station/src/Exercise007/Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-007_health_station/src/Exercise007/Exercise.csproj",
+        "projectUniqueName": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-007_health_station/src/Exercise007/Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-007_health_station/src/Exercise007/Exercise.csproj",
+        "projectPath": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-007_health_station/src/Exercise007/Exercise.csproj",
         "packagesPath": "/Users/s2200682/.nuget/packages/",
-        "outputPath": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-007_health_station/src/Exercise007/obj/",
+        "outputPath": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-007_health_station/src/Exercise007/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/s2200682/.nuget/NuGet/NuGet.Config"

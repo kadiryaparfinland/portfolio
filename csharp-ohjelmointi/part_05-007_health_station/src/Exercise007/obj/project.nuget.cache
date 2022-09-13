@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PBtKaRCnMF9HxWy3d+Hgb7Euib+C/Be6a+dPDNrP/2UbOgKyYiI21UO+1HaY4xCcQCgpFER0fOi6/A3jodJLLA==",
+  "dgSpecHash": "BwRF7zFGrGL89BmgxjH6q8CvQeorjMQaWDxytfMs8DtJOmjncZyp6iMORb/5dcnbCCIpFRMAxJWzBcCsn1qVEQ==",
   "success": true,
-  "projectFilePath": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-007_health_station/src/Exercise007/Exercise.csproj",
+  "projectFilePath": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-007_health_station/src/Exercise007/Exercise.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

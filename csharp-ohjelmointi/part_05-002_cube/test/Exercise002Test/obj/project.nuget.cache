@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FRrccWdcPM8X+sTiaVGXR+GxwcQRgTj9TltvDjctl5+w3H1SdrZb5+QWRF5SG/bSIvg7TCp5/6aOcWdj35aeRg==",
+  "dgSpecHash": "okcS9YmtF6bCZlGwM5q+7jSQrBIVW1g6xZvqSn/eIIKfheVO9IOaSd2Txzrf4zK76pTueGCtX7uPtYfn+1270Q==",
   "success": true,
-  "projectFilePath": "/Users/s2200682/Library/Application Support/tmc/vscode/hbc-csharp-basics-dotnet22s/part_05-002_cube/test/Exercise002Test/Exercise002Tests.csproj",
+  "projectFilePath": "/Users/s2200682/Documents/portfolio/csharp-ohjelmointi/part_05-002_cube/test/Exercise002Test/Exercise002Tests.csproj",
   "expectedPackageFiles": [
     "/Users/s2200682/.nuget/packages/codeexerciselibrary.sourcegenerator/1.2.1/codeexerciselibrary.sourcegenerator.1.2.1.nupkg.sha512",
     "/Users/s2200682/.nuget/packages/microsoft.codecoverage/17.3.0/microsoft.codecoverage.17.3.0.nupkg.sha512",
