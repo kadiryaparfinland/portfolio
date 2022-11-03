@@ -14,5 +14,5 @@ function save(){
   text = text + count + "-";
   document.getElementById("prev-entry").innerText = text;
   count = 0;
-  document.getElementById("count-el").innerText = count;
+  document.getElementById("count-el").textContent = count;
 }
